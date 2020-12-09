@@ -1,0 +1,66 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Book",
+      "description": "this is a book",
+      "price": "200",
+      "unit": "BHT",
+      "image": "https://picsum.photos/200/300?random=1",
+      "slot": "10",
+      "createdBy": "user-1"
+    },
+    {
+      "id": 2,
+      "name": "Shoes",
+      "description": "this is shoes",
+      "price": "5",
+      "unit": "BHT",
+      "image": "https://picsum.photos/200/300?random=2",
+      "slot": "100",
+      "createdBy": "user-1"
+    },
+    {
+      "id": 3,
+      "name": "Paper pack",
+      "description": "this is paper pack",
+      "price": "80",
+      "unit": "BHT",
+      "image": "https://picsum.photos/200/300?random=3",
+      "slot": "100",
+      "createdBy": "user-2"
+    },
+    {
+      "id": 4,
+      "name": "Computer",
+      "description": "this is conputer",
+      "price": "20000",
+      "unit": "BHT",
+      "image": "https://picsum.photos/200/300?random=4",
+      "slot": "5",
+      "createdBy": "user-2"
+    },
+    {
+      "id": 5,
+      "name": "Apple Phone",
+      "description": "this is apple phone",
+      "price": "40000",
+      "unit": "BHT",
+      "image": "https://picsum.photos/200/300?random=5",
+      "slot": "0",
+      "createdBy": "user-2"
+    }
+  ],
+  "user": [
+    {
+      "id": "user-1",
+      "firstName": "Gaoey",
+      "lastName": "Handsome"
+    },
+    {
+      "id": "user-2",
+      "firstName": "Gaoey2",
+      "lastName": "Handsome"
+    }
+  ]
+}

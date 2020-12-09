@@ -1,0 +1,29 @@
+html,
+body {
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    height: 100%;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    min-height: 99vh;
+}
+
+.page-container {
+    overflow: auto;
+}
+
+.main-page-container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top:20px;
+}
+
+.detail-page-container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
